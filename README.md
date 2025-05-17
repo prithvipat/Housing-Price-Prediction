@@ -9,7 +9,8 @@ This project implements linear regression from scratch using gradient descent, a
 
 ## How to Run
 1. Run `main.py` or open the notebook
-2. Make sure the dataset is in the same folder
+2. Make sure the dataset is in the smae folder
+3. Make sure you have installed numpy, pandas, and matplotlib
 
 ## Results
 - Final weights and bias from custom implementation
